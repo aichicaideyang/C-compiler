@@ -1,7 +1,9 @@
 # C-compiler
 同济大学 计科 编译原理 课程设计 类C编译器
 
+本项目基于：[juyaoliu/C-minus-compiler: 同济大学编译原理课程设计类C编译器任务 (github.com)](https://github.com/juyaoliu/C-minus-compiler)
 
+改动主要在修改了目标代码生成器的结构，将寄存器内存管理和基本块划分抽离出来。但最后感觉还是学长写的更合理！
 
 - 编译
 
